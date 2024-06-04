@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com/mrv90/frontend-mentor_four-card-feature-section](https://github.com/mrv90/frontend-mentor_four-card-feature-section)
-- Live Site URL: [mrv90.github.io/frontend-mentor_four-card-feature-section](https://mrv90.github.io/frontend-mentor_four-card-feature-section])
+- Live Site URL: [mrv90.github.io/frontend-mentor_four-card-feature-section](https://mrv90.github.io/frontend-mentor_four-card-feature-section)
 
 ## My process
 
